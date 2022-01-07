@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = specta1989@gmail.com
+	name = Alastair Turner
